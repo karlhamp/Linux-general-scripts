@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+# Testing GitHub commit
 
 #-------------------------------------------------------------------------------
 # Script:	check_mounts.ksh	
